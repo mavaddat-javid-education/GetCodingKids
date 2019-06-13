@@ -43,3 +43,4 @@ Then learn how you can use HTML with a new programming language called CSS. Chan
 ### DO IT YOURSELF TASK:
 #### BUILD A WEB PAGE
 Use your new HTML and CSS skills to build a web page for Professor Bairstone that tells the world about the discovery of the Monk Diamond. Your web page should have an interesting layout and contain both text and images.
+[GET CODE](https://github.com/mavaddat-javid-education/GetCodingKidsMission1/blob/master/CodePen_Export_MyZaoZ/src/index.html)
