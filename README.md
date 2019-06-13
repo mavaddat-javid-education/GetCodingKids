@@ -1,4 +1,11 @@
-# Mission 1: Build a web page
+# Get Coding 
+_Get Coding!_ is the essential guide to computer coding for kids. Computer coding is a key skill and is now part of the National Curriculum for children aged 5+. This fun and exciting book teaches you how to code using the three most important programming languages in the world: HTML, CSS and JavaScript.
+
+In each of the book’s six missions develop new coding skills by working through simple step-by-step instructions and bite-sized chunks of information. Then test your new programming knowledge by coding your own projects, which include a website, app, game, password and map. Your coding will help Professor Bairstone, Dr Day and Ernest to keep the Monk Diamond safe from a gang of dangerous jewel thieves.
+
+All you need is the book and a computer (PC or Mac) that’s connected to the Internet. The book is suitable for beginners with no previous experience of coding. It’s aimed at kids aged 9+.
+
+## Mission 1: Build a web page
 
 In Mission 1 you are going to learn how to code in the programming languages HTML and CSS. Start off by learning what HTML is and how it works. Then use HTML tags to create a web page. Learn how to change the way your web page looks by coding paragraphs and line breaks, adding images and dividing your page into sections.
 
