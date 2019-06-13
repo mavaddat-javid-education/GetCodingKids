@@ -4,6 +4,7 @@ _Get Coding!_ is the essential guide to computer coding for kids. Computer codin
 In each of the book’s six missions develop new coding skills by working through simple step-by-step instructions and bite-sized chunks of information. Then test your new programming knowledge by coding your own projects, which include a website, app, game, password and map. Your coding will help Professor Bairstone, Dr Day and Ernest to keep the Monk Diamond safe from a gang of dangerous jewel thieves.
 
 All you need is the book and a computer (PC or Mac) that’s connected to the Internet. The book is suitable for beginners with no previous experience of coding. It’s aimed at kids aged 9+.
+<img src="https://raw.githubusercontent.com/mavaddat-javid-education/GetCodingKidsMission1/master/girl-and-book.png"  width="570" height="441">
 
 ## Mission 1: Build a web page
 
