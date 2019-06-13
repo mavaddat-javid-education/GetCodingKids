@@ -39,3 +39,7 @@ Then learn how you can use HTML with a new programming language called CSS. Chan
 7. CODE SKILLS: USING CSS CLASSES AND THE CLASS ATTRIBUTE
 <br/>Create CSS classes and apply them to your web page using the class attribute.
 <br/>[GET CODE](https://github.com/mavaddat-javid-education/GetCodingKidsMission1/blob/master/m1-cs-using-css-classes-and-the-class-attribute/src/index.html)
+
+### DO IT YOURSELF TASK:
+#### BUILD A WEB PAGE
+Use your new HTML and CSS skills to build a web page for Professor Bairstone that tells the world about the discovery of the Monk Diamond. Your web page should have an interesting layout and contain both text and images.
